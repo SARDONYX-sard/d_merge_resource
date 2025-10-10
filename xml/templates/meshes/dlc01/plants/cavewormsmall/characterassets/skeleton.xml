@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ascii"?>
+<hkpackfile classversion="8" contentsversion="hk_2010.2.0-r1" toplevelobject="#0044">
+
+	<hksection name="__data__">
+
+		<hkobject name="#0045" class="hkMemoryResourceContainer" signature="0x4762f92a">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="name"></hkparam>
+			<!-- parent SERIALIZE_IGNORED -->
+			<hkparam name="resourceHandles" numelements="0"></hkparam>
+			<hkparam name="children" numelements="0"></hkparam>
+		</hkobject>
+
+		<hkobject name="#0046" class="hkaSkeleton" signature="0x366e8220">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="name">base01</hkparam>
+			<hkparam name="parentIndices" numelements="6">
+				-1 0 1 1 1 1
+			</hkparam>
+			<hkparam name="bones" numelements="6">
+				<hkobject>
+					<hkparam name="name">base01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Lipbase02</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">lip01</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">lip02</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">lip03</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">lip04</hkparam>
+					<hkparam name="lockTranslation">false</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="referencePose" numelements="6">
+				(0.000000 -0.000000 0.000000)(0.000000 0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(-0.900039 -0.795881 23.880936)(0.000000 0.000000 0.000000 1.000000)(0.470983 0.470983 0.470983)
+				(-1.414994 0.048009 1.910877)(0.000000 0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.011938 2.057944 2.035593)(0.000000 0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(2.052360 -0.439081 1.950876)(0.000000 0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+				(0.011938 -1.653313 1.953951)(0.000000 0.000000 0.000000 1.000000)(1.000000 1.000000 1.000000)
+			</hkparam>
+			<hkparam name="referenceFloats" numelements="0"></hkparam>
+			<hkparam name="floatSlots" numelements="0"></hkparam>
+			<hkparam name="localFrames" numelements="0"></hkparam>
+		</hkobject>
+
+		<hkobject name="#0047" class="hkaAnimationContainer" signature="0x8dc20333">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="skeletons" numelements="1">
+				#0046
+			</hkparam>
+			<hkparam name="animations" numelements="0"></hkparam>
+			<hkparam name="bindings" numelements="0"></hkparam>
+			<hkparam name="attachments" numelements="0"></hkparam>
+			<hkparam name="skins" numelements="0"></hkparam>
+		</hkobject>
+
+		<hkobject name="#0044" class="hkRootLevelContainer" signature="0x2772c11e">
+			<hkparam name="namedVariants" numelements="2">
+				<hkobject>
+					<hkparam name="name">Merged Animation Container</hkparam>
+					<hkparam name="className">hkaAnimationContainer</hkparam>
+					<hkparam name="variant">#0047</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="name">Resource Data</hkparam>
+					<hkparam name="className">hkMemoryResourceContainer</hkparam>
+					<hkparam name="variant">#0045</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+	</hksection>
+
+</hkpackfile>

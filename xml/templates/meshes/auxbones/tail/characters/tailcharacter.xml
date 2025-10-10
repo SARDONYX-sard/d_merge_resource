@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ascii"?>
+<hkpackfile classversion="8" contentsversion="hk_2010.2.0-r1" toplevelobject="#0022">
+
+	<hksection name="__data__">
+
+		<hkobject name="#0023" class="hkbMirroredSkeletonInfo" signature="0xc6c2da4f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="mirrorAxis">(1.000000 0.000000 0.000000 0.000000)</hkparam>
+			<hkparam name="bonePairMap" numelements="0"></hkparam>
+		</hkobject>
+
+		<hkobject name="#0024" class="hkbCharacterStringData" signature="0x655b42bc">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="deformableSkinNames" numelements="0"></hkparam>
+			<hkparam name="rigidSkinNames" numelements="0"></hkparam>
+			<hkparam name="animationNames" numelements="122">
+				<hkcstring>Animations\1HM_Idle.hkx</hkcstring>
+				<hkcstring>Animations\1HM_RunForward.HKX</hkcstring>
+				<hkcstring>Animations\1HM_StaggerBackLarge.hkx</hkcstring>
+				<hkcstring>Animations\1HM_StaggerBackLargest.hkx</hkcstring>
+				<hkcstring>Animations\1HM_StaggerBackMedium.hkx</hkcstring>
+				<hkcstring>Animations\1HM_StaggerBackSmall.hkx</hkcstring>
+				<hkcstring>Animations\1HM_StaggerBackSmallest.hkx</hkcstring>
+				<hkcstring>Animations\1HM_StaggerForwardLarge.hkx</hkcstring>
+				<hkcstring>Animations\1HM_WalkForward.hkx</hkcstring>
+				<hkcstring>Animations\Altar_LeftExit.hkx</hkcstring>
+				<hkcstring>Animations\Altar_LeftIdle.hkx</hkcstring>
+				<hkcstring>Animations\AOBarStoolIdle.hkx</hkcstring>
+				<hkcstring>Animations\AOBarTableIdle.hkx</hkcstring>
+				<hkcstring>Animations\AOBoundKneesIdle.hkx</hkcstring>
+				<hkcstring>Animations\Bed_LeftEnter.hkx</hkcstring>
+				<hkcstring>Animations\Bed_LeftExit.hkx</hkcstring>
+				<hkcstring>Animations\Bed_LeftQuickExit.hkx</hkcstring>
+				<hkcstring>Animations\Bed_LeftSleep.hkx</hkcstring>
+				<hkcstring>Animations\Bed_RightEnter.hkx</hkcstring>
+				<hkcstring>Animations\Bed_RightExit.hkx</hkcstring>
+				<hkcstring>Animations\Bed_RightQuickExit.hkx</hkcstring>
+				<hkcstring>Animations\Bed_RightSleep.hkx</hkcstring>
+				<hkcstring>Animations\BedRoll_FrontEnter.hkx</hkcstring>
+				<hkcstring>Animations\BedRoll_FrontExit.hkx</hkcstring>
+				<hkcstring>Animations\BedRoll_FrontQuickExit.hkx</hkcstring>
+				<hkcstring>Animations\BedRoll_FrontSleep.hkx</hkcstring>
+				<hkcstring>Animations\BedRoll_LeftEnter.hkx</hkcstring>
+				<hkcstring>Animations\BedRoll_LeftExit.hkx</hkcstring>
+				<hkcstring>Animations\BedRoll_LeftQuickExit.hkx</hkcstring>
+				<hkcstring>Animations\BedRoll_RightEnter.hkx</hkcstring>
+				<hkcstring>Animations\BedRoll_RightExit.hkx</hkcstring>
+				<hkcstring>Animations\BedRoll_RightQuickExit.hkx</hkcstring>
+				<hkcstring>Animations\BlackSmithAnvilEnter.hkx</hkcstring>
+				<hkcstring>Animations\BlackSmithAnvilExit.hkx</hkcstring>
+				<hkcstring>Animations\BlacksmithSharpeningWheelEnter.HKX</hkcstring>
+				<hkcstring>Animations\BlacksmithSharpeningWheelExit.HKX</hkcstring>
+				<hkcstring>Animations\BlacksmithSharpeningWheelSpin.HKX</hkcstring>
+				<hkcstring>Animations\BleedOut_Idle.hkx</hkcstring>
+				<hkcstring>Animations\BleedOut_TransOut.hkx</hkcstring>
+				<hkcstring>Animations\BlleedOut_TransIn.hkx</hkcstring>
+				<hkcstring>Animations\Chair_FrontEnterVar1.hkx</hkcstring>
+				<hkcstring>Animations\Chair_FrontExit.hkx</hkcstring>
+				<hkcstring>Animations\Chair_LeftEnter.hkx</hkcstring>
+				<hkcstring>Animations\Chair_LeftExit.hkx</hkcstring>
+				<hkcstring>Animations\Chair_RightEnter.hkx</hkcstring>
+				<hkcstring>Animations\Chair_RightExit.hkx</hkcstring>
+				<hkcstring>Animations\Horse_Idle.hkx</hkcstring>
+				<hkcstring>Animations\Horse_Idle_RearUp.hkx</hkcstring>
+				<hkcstring>Animations\Horse_JumpFall.hkx</hkcstring>
+				<hkcstring>Animations\Horse_JumpFall_Sprint.hkx</hkcstring>
+				<hkcstring>Animations\Horse_JumpLand.hkx</hkcstring>
+				<hkcstring>Animations\Horse_JumpLand_Sprint.hkx</hkcstring>
+				<hkcstring>Animations\Horse_JumpStart.hkx</hkcstring>
+				<hkcstring>Animations\Horse_JumpStart_Sprint.hkx</hkcstring>
+				<hkcstring>Animations\Horse_Paired_Dismount.hkx</hkcstring>
+				<hkcstring>Animations\Horse_Paired_Mount.hkx</hkcstring>
+				<hkcstring>Animations\Horse_RunForward.hkx</hkcstring>
+				<hkcstring>Animations\Horse_RunForwardL.hkx</hkcstring>
+				<hkcstring>Animations\Horse_RunForwardR.hkx</hkcstring>
+				<hkcstring>Animations\Horse_SprintForward.hkx</hkcstring>
+				<hkcstring>Animations\Horse_StaggerBackLarge.hkx</hkcstring>
+				<hkcstring>Animations\Horse_StaggerBackSmall.hkx</hkcstring>
+				<hkcstring>Animations\Horse_StaggerForward.hkx</hkcstring>
+				<hkcstring>Animations\Horse_SwimF.hkx</hkcstring>
+				<hkcstring>Animations\Horse_TrotForward.hkx</hkcstring>
+				<hkcstring>Animations\Horse_TrotForwardL.hkx</hkcstring>
+				<hkcstring>Animations\Horse_TrotForwardR.hkx</hkcstring>
+				<hkcstring>Animations\Horse_WalkForward.hkx</hkcstring>
+				<hkcstring>Animations\IdleKneelEnter.hkx</hkcstring>
+				<hkcstring>Animations\IdleKneelExit.hkx</hkcstring>
+				<hkcstring>Animations\IdleKneelIdle.hkx</hkcstring>
+				<hkcstring>Animations\IdleLaydown.hkx</hkcstring>
+				<hkcstring>Animations\IdleLaydown_Enter.hkx</hkcstring>
+				<hkcstring>Animations\IdleLaydown_Exit.hkx</hkcstring>
+				<hkcstring>Animations\IdleSit_CrossLegged.hkx</hkcstring>
+				<hkcstring>Animations\IdleSit_CrossLegged_enter.hkx</hkcstring>
+				<hkcstring>Animations\IdleSit_CrossLegged_exit.hkx</hkcstring>
+				<hkcstring>Animations\IdleSitLedge.hkx</hkcstring>
+				<hkcstring>Animations\IdleSitLedge_Enter.hkx</hkcstring>
+				<hkcstring>Animations\IdleSitLedge_Exit.hkx</hkcstring>
+				<hkcstring>Animations\IdleWarmHands_Crouched.hkx</hkcstring>
+				<hkcstring>Animations\MT_HandCut.hkx</hkcstring>
+				<hkcstring>Animations\MT_Idle.hkx</hkcstring>
+				<hkcstring>Animations\MT_Jump.hkx</hkcstring>
+				<hkcstring>Animations\MT_JumpFall.hkx</hkcstring>
+				<hkcstring>Animations\MT_JumpFast.hkx</hkcstring>
+				<hkcstring>Animations\MT_JumpLand.hkx</hkcstring>
+				<hkcstring>Animations\MT_RunBackward.hkx</hkcstring>
+				<hkcstring>Animations\MT_RunBackwardLeft.hkx</hkcstring>
+				<hkcstring>Animations\MT_RunBackwardRight.hkx</hkcstring>
+				<hkcstring>Animations\MT_RunForward.hkx</hkcstring>
+				<hkcstring>Animations\MT_RunForwardLeft.hkx</hkcstring>
+				<hkcstring>Animations\MT_RunForwardRight.hkx</hkcstring>
+				<hkcstring>Animations\MT_RunLeft.hkx</hkcstring>
+				<hkcstring>Animations\MT_RunRight.hkx</hkcstring>
+				<hkcstring>Animations\MT_SprintForward.hkx</hkcstring>
+				<hkcstring>Animations\MT_WalkBackward.hkx</hkcstring>
+				<hkcstring>Animations\MT_WalkBackwardLeft.hkx</hkcstring>
+				<hkcstring>Animations\MT_WalkBackwardRight.hkx</hkcstring>
+				<hkcstring>Animations\MT_WalkForward.hkx</hkcstring>
+				<hkcstring>Animations\MT_WalkForwardLeft.hkx</hkcstring>
+				<hkcstring>Animations\MT_WalkForwardRight.hkx</hkcstring>
+				<hkcstring>Animations\MT_WalkLeft.hkx</hkcstring>
+				<hkcstring>Animations\MT_WalkRight.hkx</hkcstring>
+				<hkcstring>Animations\MT_Wounded_01.hkx</hkcstring>
+				<hkcstring>Animations\SneakMTIdle.hkx</hkcstring>
+				<hkcstring>Animations\SneakRun_Backward.hkx</hkcstring>
+				<hkcstring>Animations\SneakRun_BckwrdLeft.hkx</hkcstring>
+				<hkcstring>Animations\SneakRun_BckwrdRight.hkx</hkcstring>
+				<hkcstring>Animations\SneakRun_Forward.hkx</hkcstring>
+				<hkcstring>Animations\SneakRun_FrwrdLeft.hkx</hkcstring>
+				<hkcstring>Animations\SneakRun_FrwrdRight.hkx</hkcstring>
+				<hkcstring>Animations\SneakRun_Left.hkx</hkcstring>
+				<hkcstring>Animations\SneakRun_Right.hkx</hkcstring>
+				<hkcstring>Animations\SneakWalk_Bckward.hkx</hkcstring>
+				<hkcstring>Animations\SneakWalk_BckwrdLeft.hkx</hkcstring>
+				<hkcstring>Animations\SneakWalk_BckwrdRight.hkx</hkcstring>
+				<hkcstring>Animations\SneakWalk_Forward.hkx</hkcstring>
+				<hkcstring>Animations\SneakWalk_FrwrdRight.hkx</hkcstring>
+				<hkcstring>Animations\SneakWalk_Left.hkx</hkcstring>
+				<hkcstring>Animations\SneakWalk_Right.hkx</hkcstring>
+				<hkcstring>Animations\SwimForward.hkx</hkcstring>
+			</hkparam>
+			<hkparam name="animationFilenames" numelements="0"></hkparam>
+			<hkparam name="characterPropertyNames" numelements="0"></hkparam>
+			<hkparam name="retargetingSkeletonMapperFilenames" numelements="0"></hkparam>
+			<hkparam name="lodNames" numelements="0"></hkparam>
+			<hkparam name="mirroredSyncPointSubstringsA" numelements="0"></hkparam>
+			<hkparam name="mirroredSyncPointSubstringsB" numelements="0"></hkparam>
+			<hkparam name="name">TailCharacter</hkparam>
+			<hkparam name="rigName">Character Assets\tailSkeleton.HKX</hkparam>
+			<hkparam name="ragdollName">&#9216;</hkparam>
+			<hkparam name="behaviorFilename">Behaviors\TailBehavior.hkx</hkparam>
+		</hkobject>
+
+		<hkobject name="#0025" class="hkbVariableValueSet" signature="0x27812d8d">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="wordVariableValues" numelements="0"></hkparam>
+			<hkparam name="quadVariableValues" numelements="0"></hkparam>
+			<hkparam name="variantVariableValues" numelements="0"></hkparam>
+		</hkobject>
+
+		<hkobject name="#0026" class="hkbCharacterData" signature="0x300d6808">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="characterControllerInfo">
+				<hkobject>
+					<hkparam name="capsuleHeight">1.700000</hkparam>
+					<hkparam name="capsuleRadius">0.400000</hkparam>
+					<hkparam name="collisionFilterInfo">1</hkparam>
+					<hkparam name="characterControllerCinfo">null</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="modelUpMS">(0.000000 0.000000 1.000000 0.000000)</hkparam>
+			<hkparam name="modelForwardMS">(0.000000 1.000000 0.000000 0.000000)</hkparam>
+			<hkparam name="modelRightMS">(1.000000 -0.000000 -0.000000 0.000000)</hkparam>
+			<hkparam name="characterPropertyInfos" numelements="0"></hkparam>
+			<hkparam name="numBonesPerLod" numelements="0"></hkparam>
+			<hkparam name="characterPropertyValues">#0025</hkparam>
+			<hkparam name="footIkDriverInfo">null</hkparam>
+			<hkparam name="handIkDriverInfo">null</hkparam>
+			<hkparam name="stringData">#0024</hkparam>
+			<hkparam name="mirroredSkeletonInfo">#0023</hkparam>
+			<hkparam name="scale">1.000000</hkparam>
+			<!-- numHands SERIALIZE_IGNORED -->
+			<!-- numFloatSlots SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0022" class="hkRootLevelContainer" signature="0x2772c11e">
+			<hkparam name="namedVariants" numelements="1">
+				<hkobject>
+					<hkparam name="name">hkbCharacterData</hkparam>
+					<hkparam name="className">hkbCharacterData</hkparam>
+					<hkparam name="variant">#0026</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+	</hksection>
+
+</hkpackfile>

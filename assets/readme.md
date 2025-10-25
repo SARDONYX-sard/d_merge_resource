@@ -6,7 +6,7 @@ This directory contains data assets used for development, testing, or runtime to
 
 - `templates/`
   Contains binary templates (in MessagePack format) generated from original `.hkx` files.
-  These templates were originally derived from the [SOBA](https://github.com/ShikyoKira/SOBA) project.
+  These templates were originally derived from the [SOBA](https://github.com/ShikyoKira/SOBA), [Pandora v4.0.4-beta](https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus) projects.
   Please refer to `../deps/soba/` for licensing and original source information.
 
 - `deps/`
@@ -19,5 +19,5 @@ This directory contains data assets used for development, testing, or runtime to
 
 ## Licensing
 
-Unless otherwise noted, all files in this directory are either derived from third-party sources or used internally.
-Please consult the corresponding `LICENSE` files in `deps/` subdirectories for legal terms and attribution.
+- [SOBA](./deps/soba/LICENSE)
+- [Pandora v4 GPL3.0](https://github.com/SARDONYX-sard/d_merge_resource/blob/main/LICENSE)

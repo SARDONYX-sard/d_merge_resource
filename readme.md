@@ -2,8 +2,6 @@
 
 hkx templates
 
-## TODOs
-
 - [x] hkxcmd LE hkx & Pandora template -> To Message pack .bin
 
 - [x] Compile-time hash-mapping (`0_master`, `meshes/[...]`) by
